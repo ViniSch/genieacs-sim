@@ -1008,5 +1008,5 @@ InternetGatewayDevice.X_HUAWEI_SyslogConfig.MinorServerPort,false,true,514,xsd:u
 InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.Layer3Forwarding.DownstreamRate,false,false,85000,xsd:unsignedInt
 InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.Layer3Forwarding.UpstreamRate,false,false,23000,xsd:unsignedInt
 InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.SignalStrength,false,false,-55,xsd:int
-InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.2.SignalStrength,xsd:int,false,false,-67,xsd:int
-InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.3.SignalStrength,xsd:int,false,false,-70,xsd:int
+InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.2.SignalStrength,false,false,-67,xsd:int
+InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.3.SignalStrength,false,false,-70,xsd:int
